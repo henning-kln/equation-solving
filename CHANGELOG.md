@@ -1,0 +1,16 @@
+### 13.07.2022
+- added manifest.json
+    - used for pwa 
+- added sw.js
+    - js service worker
+    - caches stylesheets
+    - needed for pwa
+- added icons folder
+    - needed for pwa
+    - icons in diffrent sizes
+- added offline.html
+    - needed for pwa
+    - is shown if a connection to server failes and sw.js is activ
+- changed student/task_new_teacher.php
+    - added head
+        - added needed pwa tags
